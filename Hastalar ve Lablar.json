@@ -1,0 +1,236 @@
+{
+  "patients": [
+    {
+      "id": "b8g3",
+      "folderNo": "305",
+      "labId": 1010101,
+      "patientNameSurname": "Ayşe Fatma",
+      "socialSecurityNumber": "20020020020",
+      "diagnosticTitle": "Grip",
+      "diagnosticDetail": "Soğuk Algınlığı",
+      "reportDate": "2024-06-15"
+    },
+    {
+      "id": "c9h4",
+      "folderNo": "306",
+      "labId": 6666666,
+      "patientNameSurname": "Ahmet Mehmet",
+      "socialSecurityNumber": "30030030030",
+      "diagnosticTitle": "Kırık",
+      "diagnosticDetail": "Kol Kırığı",
+      "reportDate": "2024-07-10"
+    },
+    {
+      "id": "e2k6",
+      "folderNo": "308",
+      "labId": 5555555,
+      "patientNameSurname": "Hüseyin Hasan",
+      "socialSecurityNumber": "50050050050",
+      "diagnosticTitle": "Diş Çürüğü",
+      "diagnosticDetail": "Diş Ağrısı",
+      "reportDate": "2024-09-01"
+    },
+    {
+      "id": "f3l7",
+      "folderNo": "309",
+      "labId": 4444444,
+      "patientNameSurname": "Zeynep Elif",
+      "socialSecurityNumber": "60060060060",
+      "diagnosticTitle": "Astım",
+      "diagnosticDetail": "Nefes Darlığı",
+      "reportDate": "2024-09-25"
+    },
+    {
+      "id": "g4m8",
+      "folderNo": "310",
+      "labId": 8888888,
+      "patientNameSurname": "Caner Kemal",
+      "socialSecurityNumber": "70070070070",
+      "diagnosticTitle": "Sinüzit",
+      "diagnosticDetail": "Burun Tıkanıklığı",
+      "reportDate": "2024-10-20"
+    },
+    {
+      "id": "h5n9",
+      "folderNo": "311",
+      "labId": 1111111,
+      "patientNameSurname": "Mert Efe",
+      "socialSecurityNumber": "80080080080",
+      "diagnosticTitle": "Bronşit",
+      "diagnosticDetail": "Öksürük",
+      "reportDate": "2024-11-15"
+    },
+    {
+      "id": "i6o0",
+      "folderNo": "312",
+      "labId": 2222222,
+      "patientNameSurname": "Elif Zeynep",
+      "socialSecurityNumber": "90090090090",
+      "diagnosticTitle": "Gastrit",
+      "diagnosticDetail": "Mide Ağrısı",
+      "reportDate": "2024-12-10"
+    },
+    {
+      "id": "j7p1",
+      "folderNo": "313",
+      "labId": 6666666,
+      "patientNameSurname": "Kerem Alp",
+      "socialSecurityNumber": "01010101010",
+      "diagnosticTitle": "Hipertansiyon",
+      "diagnosticDetail": "Yüksek Tansiyon",
+      "reportDate": "2025-01-05"
+    },
+    {
+      "id": "k8q2",
+      "folderNo": "314",
+      "labId": 9999999,
+      "patientNameSurname": "Beyza Nur",
+      "socialSecurityNumber": "10101010101",
+      "diagnosticTitle": "Hipotansiyon",
+      "diagnosticDetail": "Düşük Tansiyon",
+      "reportDate": "2025-02-01"
+    },
+    {
+      "id": "l9r3",
+      "folderNo": "315",
+      "labId": 4444444,
+      "patientNameSurname": "Ege Tuna",
+      "socialSecurityNumber": "20202020202",
+      "diagnosticTitle": "Kalp Çarpıntısı",
+      "diagnosticDetail": "Taşikardi",
+      "reportDate": "2025-02-26"
+    },
+    {
+      "id": "m1s4",
+      "folderNo": "316",
+      "labId": 3333333,
+      "patientNameSurname": "Deniz Baran",
+      "socialSecurityNumber": "30303030303",
+      "diagnosticTitle": "Diyabet",
+      "diagnosticDetail": "Şeker Hastalığı",
+      "reportDate": "2025-03-23"
+    },
+    {
+      "id": "n2t5",
+      "folderNo": "317",
+      "labId": 1111111,
+      "patientNameSurname": "Sude Naz",
+      "socialSecurityNumber": "40404040404",
+      "diagnosticTitle": "Romatizma",
+      "diagnosticDetail": "Eklemlerde Ağrı",
+      "reportDate": "2025-04-18"
+    },
+    {
+      "id": "o3u6",
+      "folderNo": "318",
+      "labId": 7777777,
+      "patientNameSurname": "Melis Asya",
+      "socialSecurityNumber": "50505050505",
+      "diagnosticTitle": "Çölyak",
+      "diagnosticDetail": "Gluten Hassasiyeti",
+      "reportDate": "2025-05-14"
+    },
+    {
+      "id": "p4v7",
+      "folderNo": "319",
+      "labId": 3333333,
+      "patientNameSurname": "Oğuz Arda",
+      "socialSecurityNumber": "60606060606",
+      "diagnosticTitle": "Kansızlık",
+      "diagnosticDetail": "Anemi",
+      "reportDate": "2025-06-09"
+    },
+    {
+      "id": "q5w8",
+      "folderNo": "320",
+      "labId": 7777777,
+      "patientNameSurname": "İrem Su",
+      "socialSecurityNumber": "70707070707",
+      "diagnosticTitle": "Böbrek Taşı",
+      "diagnosticDetail": "Ağrılı İdrar",
+      "reportDate": "2025-07-05"
+    },
+    {
+      "id": "9143",
+      "folderNo": "255222",
+      "patientNameSurname": "Emircan Güneş",
+      "socialSecurityNumber": "11027899232",
+      "diagnosticTitle": "Yazılım",
+      "diagnosticDetail": "Yazılım",
+      "reportDate": "2025-12-12",
+      "labId": 5555555
+    },
+    {
+      "id": "7f72",
+      "folderNo": "20",
+      "labId": 9999999,
+      "patientNameSurname": "Mehmet Deniz Kaya",
+      "socialSecurityNumber": "12548769320",
+      "diagnosticTitle": "Yazılım",
+      "diagnosticDetail": "Yazılım",
+      "reportDate": "2010-10-10"
+    },
+    {
+      "id": "ed9b",
+      "folderNo": "52",
+      "labId": 6666666,
+      "patientNameSurname": "Gül Ayşe",
+      "socialSecurityNumber": "48624862453",
+      "diagnosticTitle": "Tip 2 Diyabet",
+      "diagnosticDetail": "Yüksek kan şekeri seviyeleri, insülin tedavisi görüyor.",
+      "reportDate": "2030-02-06"
+    }
+  ],
+  "labs": [
+    {
+      "id": "1111111",
+      "labName": "Lab",
+      "labSurname": "1"
+    },
+    {
+      "id": "2222222",
+      "labName": "Lab",
+      "labSurname": "2"
+    },
+    {
+      "id": "3333333",
+      "labName": "Lab",
+      "labSurname": "3"
+    },
+    {
+      "id": "4444444",
+      "labName": "Lab",
+      "labSurname": "4"
+    },
+    {
+      "id": "5555555",
+      "labName": "Lab",
+      "labSurname": "5"
+    },
+    {
+      "id": "6666666",
+      "labName": "Lab",
+      "labSurname": "6"
+    },
+    {
+      "id": "7777777",
+      "labName": "Lab",
+      "labSurname": "7"
+    },
+    {
+      "id": "8888888",
+      "labName": "Lab",
+      "labSurname": "8"
+    },
+    {
+      "id": "9999999",
+      "labName": "Lab",
+      "labSurname": "9"
+    },
+    {
+      "id": "1010101",
+      "labName": "Lab",
+      "labSurname": "10"
+    }
+  ]
+}
